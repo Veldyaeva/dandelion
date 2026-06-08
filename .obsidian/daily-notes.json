@@ -1,0 +1,6 @@
+{
+  "autorun": false,
+  "dateFormat": "YYYY-MM-DD",
+  "folder": "01 Daily",
+  "template": "Templates/Ежедневная заметка.md"
+}
